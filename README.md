@@ -30,7 +30,6 @@ The Brightness_Control project is a Python program designed to control the brigh
     pip install -r requirements.txt
     ```
 
-3. [Add any additional installation steps if necessary...]
 
 ## Usage
 
