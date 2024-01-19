@@ -7,7 +7,6 @@ The Brightness_Control project is a Python program designed to control the brigh
 ## Features
 
 - Adjust display brightness programmatically.
-- [Add more features here...]
 
 ## Table of Contents
 
